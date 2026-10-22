@@ -27,7 +27,7 @@ Research projects and publications will be added as they become available.
 ## Co-Founders
 
 **Deniz Balik**  
-Co-Founder & Independent Researcher  
+Co-Founder & Researcher  
 Embedded Systems Security | Hardware Security | Applied AI
 
 [ORCID](https://orcid.org/0009-0008-9817-9294)
