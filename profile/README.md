@@ -24,12 +24,18 @@ We aim to share research tools, technical findings, experimental methodologies, 
 
 Research projects and publications will be added as they become available.
 
-## Founder
+## Co-Founders
 
-**Deniz Balık**  
-Independent Researcher | Embedded Systems Security | Applied AI
+**Deniz Balik**  
+Co-Founder & Independent Researcher  
+Embedded Systems Security | Hardware Security | Applied AI
 
 [ORCID](https://orcid.org/0009-0008-9817-9294)
+
+**Aylin Balik**  
+Co-Founder & Researcher  
+Data Science | Machine Learning | Applied AI
+
 
 ## Connect
 
